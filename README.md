@@ -124,53 +124,48 @@ class AmanSingh:
 
 <div align="center">
 
-**🤖 &nbsp;AI / ML / Agentic**
+**💻 &nbsp;Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3A5E?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=openai,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,rust,go,js,ts&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
 
-**⚙️ &nbsp;Backend & Infrastructure**
+**🤖 &nbsp;AI & Agentic Systems**
 
-<img src="https://skillicons.dev/icons?i=fastapi,go,redis,postgres,docker,kubernetes,kafka,prometheus,grafana,githubactions&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=openai&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3A5E?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-6d28d9?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Fine--Tuning-a855f7?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 
 <br/><br/>
 
-**🎨 &nbsp;Frontend**
+**🧠 &nbsp;Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind,framer&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-06b6d4?style=flat-square&logoColor=white"/>
 
 <br/><br/>
 
-**🔧 &nbsp;Tools & Platforms**
+**⚙️ &nbsp;Infrastructure & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,vercel,aws,supabase,terraform,cloudflare&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,aws&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+
+<br/><br/>
+
+**🗄️ &nbsp;Data & Storage**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
 
 </div>
 
