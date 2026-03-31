@@ -35,7 +35,11 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img align="right" width="340" src="./assets/pixel-art-banner.png"/>
+<div align="center">
+  <img width="700" src="./assets/pixel-art-banner.png" style="border-radius: 12px;"/>
+</div>
+
+<br/>
 
 ### 👾 About Me
 
@@ -54,8 +58,6 @@ class AmanSingh:
 - 🛠️ Obsessed with clean architecture, typed APIs, and production-ready code
 - 🌐 Full-stack fluency: **FastAPI → PostgreSQL → Next.js → Docker → k8s**
 - ✨ Always seeking the sweet spot between **research elegance** and **engineering pragmatism**
-
-<br clear="right"/>
 
 ---
 
