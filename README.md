@@ -35,12 +35,6 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<div align="center">
-  <img width="700" src="./assets/pixel-art-banner.png" style="border-radius: 12px;"/>
-</div>
-
-<br/>
-
 ### 👾 About Me
 
 ```python
