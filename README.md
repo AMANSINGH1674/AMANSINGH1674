@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 <a href="https://github.com/AMANSINGH1674">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:a855f7,100:06b6d4&height=240&section=header&text=Aman%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20Systems%20Architect%20%E2%80%A2%20Bangalore&descSize=19&descAlignY=62&descColor=d8b4fe"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:a855f7,100:06b6d4&height=240&section=header&text=Aman%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer&descSize=19&descAlignY=62&descColor=d8b4fe"/>
 </a>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
