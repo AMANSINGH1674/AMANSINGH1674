@@ -127,40 +127,42 @@ class AmanSingh:
 **🤖 &nbsp;AI / ML / Agentic**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSIvPjwvc3ZnPg=="/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3A5E?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=robot&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=openai,sklearn&theme=dark"/>
 
 <br/><br/>
 
 **⚙️ &nbsp;Backend & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=fastapi,go,redis,postgres,docker,kubernetes,githubactions,grafana&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,go,redis,postgres,docker,kubernetes,kafka,prometheus,grafana,githubactions&theme=dark"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 
 <br/><br/>
 
 **🎨 &nbsp;Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind,framer&theme=dark"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
 
@@ -168,10 +170,7 @@ class AmanSingh:
 
 **🔧 &nbsp;Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,vercel,aws&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,vercel,aws,supabase,terraform,cloudflare&theme=dark"/>
 
 </div>
 
