@@ -29,28 +29,30 @@
 <div align="center">
 
 ```
-$ darwin --whoami
+$ whoami
 
-  ╭──────────────────────────────────────────────────────╮
-  │                                                      │
-  │   Aman Singh                   Bangalore, India 🇮🇳   │
-  │   AI/ML Engineer · Full-Stack Developer              │
-  │                                                      │
-  │   Research    DARWIN · HELIOS · PHANTOM              │
-  │   Building    Self-improving AI systems              │
-  │   Stack       LangGraph · FastAPI · Next.js          │
-  │   Status      [████████████░░░] ships relentlessly   │
-  │                                                      │
-  ╰──────────────────────────────────────────────────────╯
+  ╭────────────────────────────────────────────────────────────────╮
+  │                                                                │
+  │   Aman Singh                           Bangalore, India 🇮🇳    │
+  │   Final-year CS Student · AI/ML Engineer · Full-Stack Dev      │
+  │                                                                │
+  ├────────────────────────────────────────────────────────────────┤
+  │                                                                │
+  │   focus      Scalable web apps & AI-powered systems           │
+  │   frontend   React · JavaScript · TypeScript · Next.js        │
+  │   backend    FastAPI · Node.js · PostgreSQL · REST APIs       │
+  │   ai/ml      LangGraph · LangChain · PyTorch · RAG            │
+  │   infra      Docker · Kubernetes · AWS · CI/CD                │
+  │                                                                │
+  │   experience Production features · End-to-end delivery        │
+  │             Performance · Usability · Clean architecture       │
+  │                                                                │
+  │   status     [████████████░░░] shipping relentlessly           │
+  │                                                                │
+  ╰────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
-
-- 🧬 Building code agents that **improve themselves** via autonomous self-play and Direct Preference Optimization — no human labels, no reward models
-- 🌌 Researching **test-time compute scaling** with MCTS and Process Reward Models (o1-style reasoning)
-- 👻 Designing **federated RAG** with differential privacy — distributed retrieval where raw data never leaves the client
-- 🤖 Production depth with **LangGraph, CrewAI, LangChain** — multi-agent orchestration at scale
-- ⚡ Full-stack: **FastAPI → PostgreSQL → Next.js → Docker → Kubernetes**
 
 ---
 
