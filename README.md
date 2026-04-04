@@ -29,32 +29,20 @@
 <div align="center">
 
 ```
-> IDENTITY.exe ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  NAME   ›  Aman Singh
-  NODE   ›  Bangalore, India 🇮🇳
-  CLASS  ›  Final-year CS  ·  AI/ML Engineer  ·  Full-Stack Dev
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  STACK MATRIX
-
-  frontend  ▸  React  ·  TypeScript  ·  Next.js  ·  JavaScript
-   backend  ▸  FastAPI  ·  Node.js  ·  PostgreSQL  ·  REST APIs
-    ai/ml   ▸  LangGraph  ·  LangChain  ·  PyTorch  ·  RAG
-     infra  ▸  Docker  ·  Kubernetes  ·  AWS  ·  CI/CD
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  CORE COMPETENCIES
-
-  ◈  Scalable web apps & AI-powered systems
-  ◈  Production features · end-to-end delivery · API integration
-  ◈  Performance · usability · clean architecture
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  ●  STATUS  [████████████████░░░░]  SHIPPING RELENTLESSLY
+╔══[ SUBJECT.SCAN ]══════════════════════════════════════════════╗
+║  ▐ AMAN SINGH ▌            BANGALORE, INDIA  //  CS FINAL YR  ║
+╠══[ MODULES ]═══════════════════════════════════════════════════╣
+║  [FRONTEND]  >>>  React  ·  TypeScript  ·  Next.js  ·  JS     ║
+║  [BACKEND ]  >>>  FastAPI  ·  Node.js  ·  PostgreSQL  ·  REST ║
+║  [AI / ML ]  >>>  LangGraph  ·  LangChain  ·  PyTorch  ·  RAG ║
+║  [INFRA   ]  >>>  Docker  ·  Kubernetes  ·  AWS  ·  CI/CD     ║
+╠══[ ASSESSMENT ]════════════════════════════════════════════════╣
+║  scalable web apps & AI-powered systems                       ║
+║  production features  ·  end-to-end delivery  ·  API integr.  ║
+║  performance-focused  ·  clean architecture  ·  ships fast    ║
+╠══[ STATUS ]════════════════════════════════════════════════════╣
+║  ██████████████████░░░░  OPERATIONAL  //  SHIPPING            ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
