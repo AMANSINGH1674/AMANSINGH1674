@@ -29,27 +29,32 @@
 <div align="center">
 
 ```
-$ whoami
+> IDENTITY.exe ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ╭────────────────────────────────────────────────────────────────╮
-  │                                                                │
-  │   Aman Singh                           Bangalore, India 🇮🇳    │
-  │   Final-year CS Student · AI/ML Engineer · Full-Stack Dev      │
-  │                                                                │
-  ├────────────────────────────────────────────────────────────────┤
-  │                                                                │
-  │   focus      Scalable web apps & AI-powered systems           │
-  │   frontend   React · JavaScript · TypeScript · Next.js        │
-  │   backend    FastAPI · Node.js · PostgreSQL · REST APIs       │
-  │   ai/ml      LangGraph · LangChain · PyTorch · RAG            │
-  │   infra      Docker · Kubernetes · AWS · CI/CD                │
-  │                                                                │
-  │   experience Production features · End-to-end delivery        │
-  │             Performance · Usability · Clean architecture       │
-  │                                                                │
-  │   status     [████████████░░░] shipping relentlessly           │
-  │                                                                │
-  ╰────────────────────────────────────────────────────────────────╯
+  NAME   ›  Aman Singh
+  NODE   ›  Bangalore, India 🇮🇳
+  CLASS  ›  Final-year CS  ·  AI/ML Engineer  ·  Full-Stack Dev
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  STACK MATRIX
+
+  frontend  ▸  React  ·  TypeScript  ·  Next.js  ·  JavaScript
+   backend  ▸  FastAPI  ·  Node.js  ·  PostgreSQL  ·  REST APIs
+    ai/ml   ▸  LangGraph  ·  LangChain  ·  PyTorch  ·  RAG
+     infra  ▸  Docker  ·  Kubernetes  ·  AWS  ·  CI/CD
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  CORE COMPETENCIES
+
+  ◈  Scalable web apps & AI-powered systems
+  ◈  Production features · end-to-end delivery · API integration
+  ◈  Performance · usability · clean architecture
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ●  STATUS  [████████████████░░░░]  SHIPPING RELENTLESSLY
 ```
 
 </div>
