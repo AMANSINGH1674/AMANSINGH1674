@@ -105,46 +105,6 @@ $ darwin --whoami
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AMANSINGH1674/A.R.T.I.S.T">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMANSINGH1674&repo=A.R.T.I.S.T&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&description_lines_count=3"/>
-      </a>
-      <br/>
-      <sub>🧠 Enterprise Agentic LLM · RLHF · RAG · RBAC · Prometheus/Grafana</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AMANSINGH1674/Semantic-Powered--MLES_Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMANSINGH1674&repo=Semantic-Powered--MLES_Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4"/>
-      </a>
-      <br/>
-      <sub>⚗️ ML Engineering Platform · MLflow · Docker Orchestration</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AMANSINGH1674/Orchestrix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMANSINGH1674&repo=Orchestrix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4"/>
-      </a>
-      <br/>
-      <sub>🎯 TypeScript Orchestration · Next.js App Router · Edge-ready</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AMANSINGH1674/SwiftVisa-AI-Based-Visa-Eligibility-Screening-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMANSINGH1674&repo=SwiftVisa-AI-Based-Visa-Eligibility-Screening-Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4"/>
-      </a>
-      <br/>
-      <sub>🛂 AI Visa Screening Agent · LangChain · FastAPI</sub>
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 
